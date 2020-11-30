@@ -1,0 +1,153 @@
+.cards{
+	display: flex; 
+	flex-wrap: wrap; 
+	flex-grow: 1;
+	margin:20px;
+}
+
+.cardbreakfast {
+	padding: 30px;
+	display: flex;
+	align-items: justify;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 6px;
+	background-image: url(../../images/breakfast.jpg);
+	margin: 30px auto;
+	background-size: cover;
+	background-position: center;
+	flex-basis: 250px;
+}
+
+.cardbreakfast a{
+	background-color: white;
+	opacity: 0.6;
+	border-radius: 6px;
+	color: black;
+	font-weight: bolder;
+	font-size: 50px; 
+	margin: auto;
+}
+
+
+.cardbrunch {
+	padding: 30px;
+	display: flex;
+	align-items: justify;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 6px;
+	background-image: url(../../images/petitdej.jpg);
+	margin: 30px auto;
+	background-size: cover;
+	flex-basis: 250px;
+}
+
+.cardbrunch a{
+	background-color: white;
+	opacity: 0.6;
+	border-radius: 6px;
+	color: black;
+	font-weight: bolder;
+	font-size: 50px; 
+	margin: auto;
+}
+
+
+.cardplat {
+	padding: 30px;
+	display: flex;
+	align-items: justify;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 6px;
+	background-image: url(../../images/lunch.jpg);
+	margin: 30px auto;
+	background-size: cover;
+	flex-basis: 250px;
+	text-align: center;
+}
+
+.cardplat a{
+	background-color: white;
+	opacity: 0.6;
+	border-radius: 6px;
+	color: black;
+	font-weight: bolder;
+	font-size: 50px; 
+	margin: auto;
+}
+
+
+.cardsoupe {
+	padding: 30px;
+	display: flex;
+	align-items: justify;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 6px;
+	background-image: url(../../images/soupe.jpg);
+	margin: 30px auto;
+	background-size: cover;
+	flex-basis: 250px;
+}
+
+.cardsoupe a{
+	background-color: white;
+	opacity: 0.6;
+	border-radius: 6px;
+	color: black;
+	font-weight: bolder;
+	font-size: 50px; 
+	margin: auto;
+}
+
+
+.cardcollation {
+	padding: 30px;
+	display: flex;
+	align-items: justify;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 6px;
+	background-image: url(../../images/collation.jpg);
+	margin: 30px auto;
+	background-size: cover;
+	background-position: center;
+	flex-basis: 250px;
+}
+
+.cardcollation a{
+	background-color: white;
+	opacity: 0.6;
+	border-radius: 6px;
+	color: black;
+	font-weight: bolder;
+	font-size: 50px; 
+	margin: auto;
+}
+
+
+.carddessert {
+	padding: 30px;
+	display: flex;
+	align-items: justify;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 6px;
+	background-image: url(../../images/dessert.jpg);
+	margin: 30px auto;
+	background-size: cover;
+	background-position: center;
+	flex-basis: 250px;
+}
+
+.carddessert a{
+	background-color: white;
+	opacity: 0.6;
+	border-radius: 6px;
+	color: black;
+	font-weight: bolder;
+	font-size: 50px; 
+	margin: auto;
+}
